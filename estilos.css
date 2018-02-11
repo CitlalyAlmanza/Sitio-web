@@ -2,6 +2,7 @@
 		* {
 			padding: 0px;
 			margin:0px;
+			background-color: #767;
 		}
 		#header{
 			margin: auto;
@@ -38,3 +39,31 @@
 		.nav li ul li {
 			position : relative;
 		}
+
+.titulo{
+	background:#696;
+	font-family: Arial;
+	color: #fff;
+	font-size:30px;
+}
+
+header{
+	margin: auto;
+	height:120px;
+	width: 850px;
+	
+	background-color:#405 ;
+}
+section{
+	margin: auto;
+	height: 550px;
+	width: 850px;	
+	background-color: #989;
+}
+footer{
+	margin: auto;
+	height:100px;
+	width: 850px;
+	
+	background-color:#249 ;
+}
