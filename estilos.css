@@ -47,9 +47,18 @@
 	color: #fff;
 	font-size:30px;
 }
-#img1{
+#img_index, #img_about {
 	margin:auto;
+	height: 250px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
 }
+#img_index:hover, #img_about:hover{
+	height: 350px;
+    width: 400px;
+}
+
 /*--------------------------------------------------*/
 /*PAGINA DE NEW*/
 .formulario{
